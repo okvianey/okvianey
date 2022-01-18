@@ -10,7 +10,7 @@
 ### 📫 How to reach me
 [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
 ### Social media 
-[Instagram](https://www.instagram.com/vianymoz) - [twitter](https://www.twitter.com/vianymoz)
+[Instagram](https://www.instagram.com/vianydev) - [twitter](https://www.twitter.com/vianydev)
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
