@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @vianydev
-## I’m Front-end developer in progress
+## I’m Front-end developer
 
 ### About me
 - 📷 Photographer since 2013
