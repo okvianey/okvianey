@@ -2,10 +2,10 @@
 ## I’m Front-end developer
 
 ### About me
-- 📷 Photographer since 2013
 - 🎮 I love coffee and video games
 - 📝 Self-taught learner, I'm constantly learning something new
-- 🌱 I’m currently learning React
+- 🌱 Currently learning React
+- 📷 Photographer since 2013
 
 ### 📫 How to reach me
 [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
