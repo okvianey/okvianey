@@ -1,16 +1,25 @@
-# 👋 Hi, I’m @vianydev
-## I’m Front-end developer
+# 👋 Hi!
+## I’m Vianey
 
-### About me
-- 🎮 I love coffee and video games
-- 📝 Self-taught learner, I'm constantly learning something new
-- 🌱 Currently learning React
-- 📷 Photographer since 2013
+project maker, frontend developer, and self-taught learner. Currently on my journey to switch from communications to technology, I'm looking forward to working on projects that benefit the community.
 
-### 📫 How to reach me
-[vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
-### Social media 
-[Instagram](https://www.instagram.com/vianydev) - [twitter](https://www.twitter.com/vianydev)
+## 📌 Currently
+- Working as freelancer
+- Learning algorithms
+- I’m looking to collaborate on open source projects
+- If I'm not working on my computer, I'm probably drinking coffee, talking, or having fun with my friends.
+
+## 💪 Skills
+- Persistence 
+- Teamwork
+- Adaptability
+- Proactive
+- Problem Solver
+
+## ☕️ Get in touch
+- Email: [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
+- Instagram: [@vianydev](https://www.instagram.com/vianydev) 
+- Linkedin: [vianydev](https://www.linkedin.com/in/vianydev/)
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
