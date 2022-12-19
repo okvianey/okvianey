@@ -5,7 +5,6 @@ project maker, frontend developer, and self-taught learner. Currently on my jour
 
 ## 📌 Currently
 - Working as freelancer
-- Learning algorithms
 - I’m looking to collaborate on open source projects
 - If I'm not working on my computer, I'm probably drinking coffee, talking, or having fun with my friends.
 
@@ -20,6 +19,7 @@ project maker, frontend developer, and self-taught learner. Currently on my jour
 - Email: [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
 - Instagram: [@vianydev](https://www.instagram.com/vianydev) 
 - Linkedin: [vianydev](https://www.linkedin.com/in/vianydev/)
+- Website: [website](https://www.vianydev.github.io/)
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
