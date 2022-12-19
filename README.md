@@ -1,4 +1,4 @@
-# 👋 Hi!
+# 👋 Hello there!
 ## I’m Vianey
 
 project maker, frontend developer, and self-taught learner. Currently on my journey to switch from communications to technology, I'm looking forward to working on projects that benefit the community.
@@ -19,7 +19,7 @@ project maker, frontend developer, and self-taught learner. Currently on my jour
 - Email: [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
 - Instagram: [@vianydev](https://www.instagram.com/vianydev) 
 - Linkedin: [vianydev](https://www.linkedin.com/in/vianydev/)
-- Website: [website](https://www.vianydev.github.io/)
+- Website: [www.vianydev.github.io](https://www.vianydev.github.io/)
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
