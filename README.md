@@ -16,7 +16,7 @@ project maker, frontend developer, and self-taught learner. Currently on my jour
 - Problem Solver
 
 ## ☕️ Get in touch
-- Email: [vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
+- Email: [vianydev@gmail.com](mailto:vianydev@gmail.com)
 - Instagram: [@vianydev](https://www.instagram.com/vianydev) 
 - Linkedin: [vianydev](https://www.linkedin.com/in/vianydev/)
 - Website: [www.vianydev.github.io](https://vianydev.github.io/)
