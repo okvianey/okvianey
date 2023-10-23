@@ -1,12 +1,10 @@
 # 👋 Hello there!
 ## I’m Vianey
 
-project maker, frontend developer, and self-taught learner. Currently on my journey to switch from communications to technology, I'm looking forward to working on projects that benefit the community.
-
 ## 📌 Currently
-- Working as freelancer
+- Working as freelancer 
 - I’m looking to collaborate on open source projects
-- If I'm not working on my computer, I'm probably drinking coffee, talking, or having fun with my friends.
+- If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
 
 ## 💪 Skills
 - Persistence 
