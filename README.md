@@ -1,8 +1,7 @@
-# 👋 Hello there!
-## I’m Vianey
+# 👋 Hello there! My name is Vianey
 
 ## 📌 Currently
-- Working as freelancer 
+- Working as Front-end Developer 
 - I’m looking to collaborate on open source projects
 - If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
 
