@@ -1,5 +1,4 @@
 # 👋 Hello there! My name is Vianey
-=======================
 
 Front-End Developer
 ------------------------------------
