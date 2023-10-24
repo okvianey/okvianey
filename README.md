@@ -1,15 +1,21 @@
 # 👋 Hello there! My name is Vianey
+=======================
 
-## 📌 Currently
-- Working as Front-end Developer 
-- I’m looking to collaborate on open source projects
-- If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
+Front-End Developer
+------------------------------------
+
+Simple. Code, Coffee and Rock
+
+* 🤝  I'm open to collaborating on Open source projects
+* ⚡  If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
+* * 🖥️  See my portfolio at [Porfolio](http://vianydev.github.io/)
+* ✉️  You can contact me at [vianydev@gmail.com](mailto:vianydev@gmail.com)
+
 
 ## ☕️ Get in touch
-- Email: [vianydev@gmail.com](mailto:vianydev@gmail.com)
+
 - Instagram: [@vianydev](https://www.instagram.com/vianydev) 
 - Linkedin: [vianydev](https://www.linkedin.com/in/vianydev/)
-- Website: [www.vianydev.github.io](https://vianydev.github.io/)
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
