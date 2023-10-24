@@ -6,13 +6,6 @@
 - I’m looking to collaborate on open source projects
 - If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
 
-## 💪 Skills
-- Persistence 
-- Teamwork
-- Adaptability
-- Proactive
-- Problem Solver
-
 ## ☕️ Get in touch
 - Email: [vianydev@gmail.com](mailto:vianydev@gmail.com)
 - Instagram: [@vianydev](https://www.instagram.com/vianydev) 
