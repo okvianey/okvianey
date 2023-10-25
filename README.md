@@ -1,12 +1,15 @@
-# 👋 Hello there! My name is Vianey
+Hi 👋 My name is Vianey
+=======================
 
-Front-End Developer
+Front-End Developer & Coffee Drinker
 ------------------------------------
 
-* 🤝  I'm open to collaborating on Open source projects
-* ⚡  If I'm not working on my computer, I'm probably drinking coffee, or making music.
-* 🖥️  See my portfolio at [Porfolio](http://vianydev.github.io/)
-* ✉️  You can contact me at [vianydev@gmail.com](mailto:vianydev@gmail.com)
+Simple. Code, Coffee & Music
+
+* 🖥️  See my portfolio at [Porfolio](http://vianydev.github.io/)
+* ✉️  You can contact me at [vianydev@gmail.com](mailto:vianydev@gmail.com)
+* 🤝  I'm open to collaborating on Open source projects
+* ⚡  If I'm not working on my computer, I'm probably drinking coffee, or talking about tech.
 
 ### Skills
 
@@ -17,6 +20,8 @@ Front-End Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vianydev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/vianydev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vianydev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
 
 <!---
 vianydev/vianydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
