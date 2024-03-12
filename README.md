@@ -1,13 +1,11 @@
 Hi, I'm Vianey
-=======================
-
-Front-End Developer & Coffee Drinker
 ------------------------------------
+Front-End Developer
 
-* 🖥️  Portfolio [Porfolio](http://vianydev.github.io/)
-* ✉️  Email [vianydev@gmail.com](mailto:vianydev@gmail.com)
-* 🤝  I'm open to collaborating on Open source projects
-* ⚡  If I'm not working on my computer, I'm probably drinking coffee.
+* 🤝  Open to contribute on Open source projects
+* ☕️ When I'm not on my computer, you'll likely find me drinking coffee.
+* 🖥️  [Porfolio](http://vianydev.github.io/)
+* ✉️  [vianydev@gmail.com](mailto:vianydev@gmail.com)
 
 ### Tech
 
