@@ -4,7 +4,7 @@ Front-End Developer
 
 * 🤝  Open to contribute on Open source projects
 * ☕️ When I'm not on my computer, you'll likely find me drinking coffee.
-* 🖥️  [Porfolio](http://vianydev.github.io/)
+* 🖥️  [Portfolio](http://vianydev.github.io/)
 * ✉️  [vianydev@gmail.com](mailto:vianydev@gmail.com)
 
 ### Tech
