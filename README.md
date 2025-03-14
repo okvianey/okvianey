@@ -1,9 +1,10 @@
 Hi, I'm Vianey
 ------------------------------------
-Front-End Developer
+Web Developer
 
 * 🤝  Open to contribute on Open source projects
 * ☕️ When I'm not on my computer, you'll likely find me drinking coffee.
+* 🖥️  [Portfolio en Español](http://flatlatte.com/)
 * 🖥️  [Portfolio](http://vianydev.github.io/)
 * ✉️  [vianydev@gmail.com](mailto:vianydev@gmail.com)
 
