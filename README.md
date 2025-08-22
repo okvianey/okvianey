@@ -4,7 +4,7 @@ Hola
 * 🤝 Open to contribute on open source projects
 * 🤝 Abierta a trabajar en proyectos open source con buenas causas
 * 🖥️  [Portfolio en Español](http://flatlatte.com/)
-* 🖥️  [Portfolio](http://vianydev.github.io/)
+* 🖥️  [Portfolio](http://okvianey.github.io/)
 * ✉️  [okvianeym@gmail.com](mailto:okvianeym@gmail.com)
 
 ### Tech
